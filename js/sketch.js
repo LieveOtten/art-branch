@@ -9,6 +9,8 @@ ellipseMode (CENTER);
 ellipse (100,100,200,200);
 rect (100,100,20,20);
 
+  
+  ellipse (10,10,10,10);
 
 fill(0);
 textAlign(CENTER,CENTER);
